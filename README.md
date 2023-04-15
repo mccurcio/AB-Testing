@@ -9,7 +9,7 @@
 
 ---
 
-- [MCurcio-AB-Testing.ipynb](https://github.com/mcc-us/AB_Testing/blob/main/MCurcio-AB-Testing.ipynb)
+- [MCurcio-AB-Testing.ipynb](https://github.com/mccurcio/AB-Testing/blob/main/MCurcio-AB-Testing.ipynb)
 
 In this report, two icons are A/B tested on the ordering page of 'catsVSdogs.com'.
 
